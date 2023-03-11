@@ -1,0 +1,19 @@
+{
+  "name": "estofaria-principal",
+  "version": "1.0.0",
+  "description": "estudos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souzzagabe/estofaria-principal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souzzagabe/estofaria-principal/issues"
+  },
+  "homepage": "https://github.com/Souzzagabe/estofaria-principal#readme"
+}
